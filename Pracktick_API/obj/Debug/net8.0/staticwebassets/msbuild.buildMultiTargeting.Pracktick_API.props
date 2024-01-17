@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pracktick_API.props" />
+</Project>
